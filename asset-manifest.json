@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/austinzn/webportfolio.git/static/css/main.cc4a40bb.css",
+    "main.js": "/austinzn/webportfolio.git/static/js/main.3ea544f7.js",
+    "static/js/787.e8a52378.chunk.js": "/austinzn/webportfolio.git/static/js/787.e8a52378.chunk.js",
+    "index.html": "/austinzn/webportfolio.git/index.html",
+    "main.cc4a40bb.css.map": "/austinzn/webportfolio.git/static/css/main.cc4a40bb.css.map",
+    "main.3ea544f7.js.map": "/austinzn/webportfolio.git/static/js/main.3ea544f7.js.map",
+    "787.e8a52378.chunk.js.map": "/austinzn/webportfolio.git/static/js/787.e8a52378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4a40bb.css",
+    "static/js/main.3ea544f7.js"
+  ]
+}
