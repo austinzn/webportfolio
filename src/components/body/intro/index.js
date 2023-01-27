@@ -15,8 +15,14 @@ function Intro() {
          and hope that you'll reach out and connect with me!
         </div>
         <div className="about-photo">
+          <img 
+            src={require("../../../assets/guitar.jpg")}
+            className="picture"
+          />
+          <br /><center> Here's my guitar!</center>
         </div>
       </div>
+      
     </div>
   );
 }

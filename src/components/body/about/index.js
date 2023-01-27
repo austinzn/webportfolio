@@ -10,10 +10,10 @@ function About() {
          <br /> Welcome to my web portfolio, I hope you will be able to learn a lot about me!
         </div>
         <div className="about-photo">
-          {/* <img 
-            src={require("../../../assets/coding.png")}
+          <img 
+            src={require("../../../assets/me.jpeg")}
             className="picture"
-          /> */}
+          />
         </div>
       </div>
       <SocialContact />
